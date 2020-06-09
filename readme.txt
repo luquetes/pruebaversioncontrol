@@ -48,3 +48,4 @@ El mensaje va entre comillas!
 
 git push: Sirve para subir cambios a un repositorio. Para ésto es necesario indicarle a nuestro repositorio local dónde subirlo. Es decir, indicarle un destino. Para esto usamos git remote add origin (esto se ve igual en el propio repositorio remoto cuando lo creás por primera vez)
 
+git pull: Así como existe git push para SUBIR cambios, existe git pull para BAJAR cambios, actualizándonos para estar en el mismo punto que el resto del equipo. Como buena práctica, se recomienda siempre que antes de empezar a trabajar, siempre hacer un git pull. SIEMPRE. SIEEEEEEMPRE.
